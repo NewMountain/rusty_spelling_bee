@@ -1,0 +1,7 @@
+[package]
+name = "rusty_spelling_bee"
+version = "0.1.0"
+authors = ["Christopher Nyberg <christopher.nyberg@gmail.com>"]
+edition = "2018"
+
+[dependencies]
